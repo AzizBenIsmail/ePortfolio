@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "Heyy",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -10,13 +10,13 @@
   },
   "title": "I'm a Aziz Ben Ismail ",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "Software Engineer | Full-Stack JS | ",
+    "highlight": "Machine Learning ",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Looking for an end of studies internship.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "youtube", "Github", "Mail"],
     "showIcons": false
   }
 }
