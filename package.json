@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "Ben Isamil-portfolio",
   "version": "1.0.0",
   "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
   "scripts": {
@@ -17,16 +17,16 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "author": "Konstantin Münster <mail@konstantin.digital>",
+  "author": "Aziz Ben Isamil <mail@konstantin.digital>",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
   "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
+    "url": "https://github.com/AzizBenIsmail/ePortfolio.git"
   },
   "bugs": {
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
+    "url": "https://github.com/AzizBenIsmail/ePortfolio/issues"
   },
   "keywords": [
     "react",
