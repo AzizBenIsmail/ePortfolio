@@ -1,4 +1,5 @@
-<img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1f69a537-ca2d-412d-a1b9-524caf49dc63/deploy-status)](https://app.netlify.com/sites/azizbenismail/deploys)
+
 
 <a href="https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme" target="_blank">
 <img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud" />
