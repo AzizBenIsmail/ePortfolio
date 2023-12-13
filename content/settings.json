@@ -22,7 +22,7 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Projects", "url": "/blog" },
-        { "label": "Skills", "url": "/#features" },
+        { "label": "Skills", "url": "/#Skills" },
         { "label": "Github", "url": "/#github" }
       ],
       "ctaButton": {
