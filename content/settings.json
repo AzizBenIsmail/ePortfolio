@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume/CV",
-        "url": "/resume.pdf"
+        "url": "/CvAzizBenIsmail.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
